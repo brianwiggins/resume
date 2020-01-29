@@ -1,3 +1,25 @@
-h1{
+*{
   font-family: "Rubik";
+  outline:solid black 2px;
+}
+footer{
+  color:white;
+}
+.myrainbow{
+  background-image:linear-gradient(to bottom right,#F8B195,#F67280,#C06C84,#6C5B7B);
+}
+.text-rainbow{
+color:linear-gradient(to bottom right,#F8B195,#F67280,#C06C84,#6C5B7B);
+}
+.transparent{
+  background:none;
+}
+.blur{
+  filter:blur();
+}
+.make-round{
+  border-radius:50%
+}
+.btn-link{
+  color:black;
 }
