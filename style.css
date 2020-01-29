@@ -1,6 +1,9 @@
 *{
   font-family: "Rubik";
-  outline:solid black 2px;
+}
+body{
+  background-color: #6C5B7B;
+  width:100vw;
 }
 footer{
   color:white;
@@ -13,6 +16,7 @@ color:linear-gradient(to bottom right,#F8B195,#F67280,#C06C84,#6C5B7B);
 }
 .transparent{
   background:none;
+  border:none;
 }
 .blur{
   filter:blur();
@@ -22,4 +26,10 @@ color:linear-gradient(to bottom right,#F8B195,#F67280,#C06C84,#6C5B7B);
 }
 .btn-link{
   color:black;
+}
+.group{
+  border-radius: 20%;
+  perspective:1px;
+  outline:solid darkslategray 1px;
+  
 }
