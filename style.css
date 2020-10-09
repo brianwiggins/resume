@@ -9,10 +9,10 @@ footer{
   color:white;
 }
 .myrainbow{
-  background-image:linear-gradient(to bottom right,#F8B195,#F67280,#C06C84,#6C5B7B);
+  background-image:linear-gradient(to bottom right,#E2DADB,#4ECDC4,#292F36);
 }
 .text-rainbow{
-color:linear-gradient(to bottom right,#F8B195,#F67280,#C06C84,#6C5B7B);
+color:linear-gradient(to bottom right, #E2DADB,#4ECDC4,#292F36);
 }
 .transparent{
   background:none;
